@@ -1,4 +1,4 @@
-## UCS712 Cognitive Computing
+## UCS420 Cognitive Computing
 
 > **"Cognitive Computing is not just about teaching machines to think; it's about unlocking the potential of human-machine collaboration to solve problems we once thought impossible."**
 
