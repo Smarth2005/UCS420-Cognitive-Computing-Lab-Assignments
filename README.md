@@ -14,4 +14,3 @@ Smarth Kaushal
 Jan 10, 2025
 </div>
 
-![CC Scope](Images/Scope.png)
