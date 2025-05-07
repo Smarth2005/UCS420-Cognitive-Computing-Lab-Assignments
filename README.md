@@ -14,3 +14,20 @@ Smarth Kaushal
 Jan 10, 2025
 </div>
 
+
+<div align="justify"> 
+
+
+  
+#### 🚀 **Journey Complete, Learnings Eternal**
+  
+As I conclude my Cognitive Computing Lab journey with the final evaluation, I take a moment to reflect on the valuable concepts, hands-on skills, and insightful experiences I’ve gained throughout the course. From exploring the foundations of intelligent systems to implementing core models, this lab has been a truly transformative part of my academic growth.
+
+I extend my sincere gratitude to our instructors for their unwavering guidance and encouragement throughout this learning experience.
+
+With this repository, I not only document my lab work but also mark the successful completion of this enlightening chapter in my academic journey.<br><br>
+Smarth Kaushal 
+  <br>
+May 08, 2025
+</div>
+
